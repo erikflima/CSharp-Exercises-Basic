@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework02\\Homework02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B889F0F1-F9EE-4AB8-A4AF-36F18BA0473F}|Exercise2\\Exercise2.csproj|c:\\users\\erik\\desktop\\nbcc\\prog 1337a - programming fundamentals\\z-github-repositories-to-push\\1-homework(repo)\\pf26-homework-erikflima\\homework02\\homework02\\exercise2\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B889F0F1-F9EE-4AB8-A4AF-36F18BA0473F}|Exercise2\\Exercise2.csproj|solutionrelative:exercise2\\exercise2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise2.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework02\\Homework02\\Exercise2\\Exercise2.cs",
+              "RelativeDocumentMoniker": "Exercise2\\Exercise2.cs",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework02\\Homework02\\Exercise2\\Exercise2.cs",
+              "RelativeToolTip": "Exercise2\\Exercise2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T03:24:54.216Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

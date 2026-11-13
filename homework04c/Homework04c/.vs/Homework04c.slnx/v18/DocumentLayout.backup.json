@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework04c\\Homework04c\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E89091-C219-D94D-906E-BE07881F5F3E}|Exercise-3.11-7\\Exercise-3.11-7.csproj|c:\\users\\erik\\desktop\\nbcc\\prog 1337a - programming fundamentals\\z-github-repositories-to-push\\1-homework(repo)\\pf26-homework-erikflima\\homework04c\\homework04c\\exercise-3.11-7\\exercise-3.11-7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E89091-C219-D94D-906E-BE07881F5F3E}|Exercise-3.11-7\\Exercise-3.11-7.csproj|solutionrelative:exercise-3.11-7\\exercise-3.11-7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F04D37F3-7C63-0E69-CA44-00B02B53148B}|Exercise-3.11-8\\Exercise-3.11-8.csproj|c:\\users\\erik\\desktop\\nbcc\\prog 1337a - programming fundamentals\\z-github-repositories-to-push\\1-homework(repo)\\pf26-homework-erikflima\\homework04c\\homework04c\\exercise-3.11-8\\exercise-3.11-8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F04D37F3-7C63-0E69-CA44-00B02B53148B}|Exercise-3.11-8\\Exercise-3.11-8.csproj|solutionrelative:exercise-3.11-8\\exercise-3.11-8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D533F67B-BE29-436B-B66C-316F1C692753}|Solution Items{D533F67B-BE29-436B-B66C-316F1C692753}|C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework04c\\Homework04c\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{D533F67B-BE29-436B-B66C-316F1C692753}|Solution Items{D533F67B-BE29-436B-B66C-316F1C692753}|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 106,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise-3.11-7.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework04c\\Homework04c\\Exercise-3.11-7\\Exercise-3.11-7.cs",
+              "RelativeDocumentMoniker": "Exercise-3.11-7\\Exercise-3.11-7.cs",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework04c\\Homework04c\\Exercise-3.11-7\\Exercise-3.11-7.cs",
+              "RelativeToolTip": "Exercise-3.11-7\\Exercise-3.11-7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T20:12:31.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise-3.11-8.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework04c\\Homework04c\\Exercise-3.11-8\\Exercise-3.11-8.cs",
+              "RelativeDocumentMoniker": "Exercise-3.11-8\\Exercise-3.11-8.cs",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework04c\\Homework04c\\Exercise-3.11-8\\Exercise-3.11-8.cs",
+              "RelativeToolTip": "Exercise-3.11-8\\Exercise-3.11-8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T20:33:45.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 8,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework04c\\Homework04c\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework04c\\Homework04c\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-08T20:38:07.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

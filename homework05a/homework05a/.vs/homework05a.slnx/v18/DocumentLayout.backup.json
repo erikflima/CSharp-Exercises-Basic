@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AC1FD14-A88B-017A-CF81-7B779D83873C}|Exercise-4.17-1\\Exercise-4.17-1.csproj|c:\\users\\erik\\desktop\\nbcc\\prog 1337a - programming fundamentals\\z-github-repositories-to-push\\1-homework(repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\exercise-4.17-1\\exercise-4.17-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AC1FD14-A88B-017A-CF81-7B779D83873C}|Exercise-4.17-1\\Exercise-4.17-1.csproj|solutionrelative:exercise-4.17-1\\exercise-4.17-1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07AAE55E-1DEB-3D15-A883-F3BA869A5753}|Exercise-4.17-4\\Exercise-4.17-4.csproj|c:\\users\\erik\\desktop\\nbcc\\prog 1337a - programming fundamentals\\z-github-repositories-to-push\\1-homework(repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\exercise-4.17-4\\exercise-4.17-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07AAE55E-1DEB-3D15-A883-F3BA869A5753}|Exercise-4.17-4\\Exercise-4.17-4.csproj|solutionrelative:exercise-4.17-4\\exercise-4.17-4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B4F524-76FD-2C1E-BD80-BC22A6A52A22}|Exercise-Extra\\ExerciseExtra.csproj|c:\\users\\erik\\desktop\\nbcc\\prog 1337a - programming fundamentals\\z-github-repositories-to-push\\1-homework(repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\exercise-extra\\exerciseextra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B4F524-76FD-2C1E-BD80-BC22A6A52A22}|Exercise-Extra\\ExerciseExtra.csproj|solutionrelative:exercise-extra\\exerciseextra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F203EC8-CA35-6D54-03DB-C18F33ED8E33}|Exercise-4.17-3\\Exercise-4.17-3.csproj|c:\\users\\erik\\desktop\\nbcc\\prog 1337a - programming fundamentals\\z-github-repositories-to-push\\1-homework(repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\exercise-4.17-3\\exercise-4.17-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F203EC8-CA35-6D54-03DB-C18F33ED8E33}|Exercise-4.17-3\\Exercise-4.17-3.csproj|solutionrelative:exercise-4.17-3\\exercise-4.17-3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A40F7EA-8541-B042-7492-02A2B4EB922E}|Exercise-4.17-2\\Exercise-4.17-2.csproj|c:\\users\\erik\\desktop\\nbcc\\prog 1337a - programming fundamentals\\z-github-repositories-to-push\\1-homework(repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\exercise-4.17-2\\exercise-4.17-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A40F7EA-8541-B042-7492-02A2B4EB922E}|Exercise-4.17-2\\Exercise-4.17-2.csproj|solutionrelative:exercise-4.17-2\\exercise-4.17-2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Exercise-4.17-1.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-4.17-1\\Exercise-4.17-1.cs",
+              "RelativeDocumentMoniker": "Exercise-4.17-1\\Exercise-4.17-1.cs",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-4.17-1\\Exercise-4.17-1.cs",
+              "RelativeToolTip": "Exercise-4.17-1\\Exercise-4.17-1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:24:27.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exercise-4.17-2.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-4.17-2\\Exercise-4.17-2.cs",
+              "RelativeDocumentMoniker": "Exercise-4.17-2\\Exercise-4.17-2.cs",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-4.17-2\\Exercise-4.17-2.cs",
+              "RelativeToolTip": "Exercise-4.17-2\\Exercise-4.17-2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:24:30.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercise-4.17-3.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-4.17-3\\Exercise-4.17-3.cs",
+              "RelativeDocumentMoniker": "Exercise-4.17-3\\Exercise-4.17-3.cs",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-4.17-3\\Exercise-4.17-3.cs",
+              "RelativeToolTip": "Exercise-4.17-3\\Exercise-4.17-3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:24:34.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exercise-4.17-4.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-4.17-4\\Exercise-4.17-4.cs",
+              "RelativeDocumentMoniker": "Exercise-4.17-4\\Exercise-4.17-4.cs",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-4.17-4\\Exercise-4.17-4.cs",
+              "RelativeToolTip": "Exercise-4.17-4\\Exercise-4.17-4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T00:24:37.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExerciseExtra.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-Extra\\ExerciseExtra.cs",
+              "RelativeDocumentMoniker": "Exercise-Extra\\ExerciseExtra.cs",
+              "ToolTip": "C:\\Users\\Erik\\Desktop\\NBCC\\PROG 1337A - Programming Fundamentals\\z-GitHub-Repositories-To-Push\\1-Homework(Repo)\\pf26-homework-erikflima\\homework05a\\homework05a\\Exercise-Extra\\ExerciseExtra.cs",
+              "RelativeToolTip": "Exercise-Extra\\ExerciseExtra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T23:06:57.607Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 92,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

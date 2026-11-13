@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ExArcadeMenu/ExArcadeMenu.csproj" />
+  <Project Path="ExNumberTools/ExNumberTools.csproj" />
+</Solution>

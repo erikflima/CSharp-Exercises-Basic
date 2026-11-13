@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="Exercise-5.13-1/Exercise-5.13-1.csproj" />
+  <Project Path="Exercise-5.13-3/Exercise-5.13-3.csproj" />
+  <Project Path="Exercise-5.13-5/Exercise-5.13-5.csproj" />
+  <Project Path="Exercise-5.13-6/Exercise-5.13-6.csproj" />
+  <Project Path="Exercise-5.13-7/Exercise-5.13-7.csproj" />
+</Solution>

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ArcadeCornerV2/ArcadeCornerV2.csproj" />
+  <Project Path="Exercise-5.13-13/Exercise-5.13-13.csproj" />
+  <Project Path="ExTriangles/ExTriangles.csproj" Id="8723cc69-1d14-4a11-8cf7-238d12550e0b" />
+  <Project Path="NumberToolsV2/NumberToolsV2.csproj" />
+</Solution>
