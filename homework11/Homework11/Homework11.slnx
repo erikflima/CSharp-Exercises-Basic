@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="ArcadeCornerV4/ArcadeCornerV4.csproj" />
+  <Project Path="NumberToolsV4/NumberToolsV4.csproj" />
+</Solution>
